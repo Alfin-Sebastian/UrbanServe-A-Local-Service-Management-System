@@ -50,8 +50,6 @@ localservice-main/
 ├── css/
 ├── js/
 └── images/
-
-
 ---
 
 # 🗄️ **Database Structure (FROM: newdata.sql)**  
