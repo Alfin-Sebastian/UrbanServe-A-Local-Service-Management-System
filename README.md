@@ -182,15 +182,29 @@ $user = "root";
 $pass = "";
 $dbname = "urbanserve";
 
-4️⃣ Run
+### 4️⃣ Run the Project
+
+After starting Apache & MySQL in XAMPP, open your browser and go to:
 http://localhost/localservice-main/
 
-🔮 Future Enhancements
 
-Rating & review system
-Admin analytics
-Wallet / payment gateway
-Push notifications
+## 🔮 Future Enhancements
 
-🧑‍💻 Author
-Alfin Sebastian – BCA Mini Project
+- ⭐ **Rating & Review System**  
+  Allow customers to rate providers after job completion.
+
+- 📊 **Admin Analytics Dashboard**  
+  Insights on users, bookings, earnings, top services.
+
+- 💳 **Wallet / Payment Gateway Integration**  
+  Razorpay / PayPal integration for online payments.
+
+- 🔔 **Push Notifications**  
+  Real-time booking updates for customers & providers.
+
+---
+
+## 🧑‍💻 Author
+
+**Alfin Sebastian – BCA Mini Project**
+
