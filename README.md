@@ -8,42 +8,44 @@ This repository contains the *localservice-main* project folder with all backend
 ## 📂 Project Structure 
 
 localservice-main/
-│── about.php
-│── add_service.php
-│── admin_dashboard.php
-│── admincontacted.php
-│── book_service.php
-│── bookings.php
-│── contact.php
-│── customer_bookings.php
-│── customer_dashboard.php
-│── db.php
-│── newdata.sql
-│── edit_my_services.php
-│── edit_profile.php
-│── footer.php
-│── header.php
-│── index.php
-│── login.php
-│── logout.php
-│── manage_categories.php
-│── manage_services.php
-│── manage_users.php
-│── my_services.php
-│── navbar.php
-│── provider_dashboard.php
-│── register.php
-│── service_details.php
-│── update_booking_status.php
-│── usercontacted.php
-│── users.php
-│── view_booking.php
-│── view_id_proof.php
+│
+├── PHP Files (Main Application)
+│   ├── about.php
+│   ├── add_service.php
+│   ├── admin_dashboard.php
+│   ├── admincontacted.php
+│   ├── book_service.php
+│   ├── bookings.php
+│   ├── contact.php
+│   ├── customer_bookings.php
+│   ├── customer_dashboard.php
+│   ├── db.php
+│   ├── newdata.sql
+│   ├── edit_my_services.php
+│   ├── edit_profile.php
+│   ├── footer.php
+│   ├── header.php
+│   ├── index.php
+│   ├── login.php
+│   ├── logout.php
+│   ├── manage_categories.php
+│   ├── manage_services.php
+│   ├── manage_users.php
+│   ├── my_services.php
+│   ├── navbar.php
+│   ├── provider_dashboard.php
+│   ├── register.php
+│   ├── service_details.php
+│   ├── update_booking_status.php
+│   ├── usercontacted.php
+│   ├── users.php
+│   ├── view_booking.php
+│   └── view_id_proof.php
 │
 ├── uploads/
-│ ├── id_proofs/
-│ ├── profiles/
-│ └── services/
+│   ├── id_proofs/
+│   ├── profiles/
+│   └── services/
 │
 ├── css/
 ├── js/
